@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_9936207c1fba86d7bf40e9b9cd7797628656bf06.jar" />
+    </item>
+    <item
+        jar="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_c520bdc0738099e8b43238a14bf23246c61eb5bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_3f0442bf11d24cd72a79fdba57373e0105299553.jar" />
+    </item>
+    <item
+        jar="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.2.0_aeae4a62e37f39584014cfa6baaf3637a42466c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_5aa52870bdf56e62f7a03a2fa4cd130ea4ea8cc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\joey\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_ec572fe4da1841371074c43dfdf04bbf49068f60.jar" />
+    </item>
+    <item
+        jar="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_64b0a4dd7c8e4655d29914fadcad617774c74a14.jar" />
+    </item>
+    <item
+        jar="C:\Users\joey\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\joey\Desktop\android studio\QRCode\QRCode\app\build\intermediates\pre-dexed\debug\core-3.2.1_e42ae46f195a446cf86fdd78869a2691ecd32326.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,3 @@
+CHANGED,C:\Users\NEW PC\AndroidStudioProjects\QRCode\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\newpc\qrcode\GeneratorActivity$1$override.class
+CHANGED,C:\Users\NEW PC\AndroidStudioProjects\QRCode\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\newpc\qrcode\GeneratorActivity$override.class
+CHANGED,C:\Users\NEW PC\AndroidStudioProjects\QRCode\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

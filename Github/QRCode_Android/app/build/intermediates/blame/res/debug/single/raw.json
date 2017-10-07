@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\joey\\Desktop\\android studio\\QRCode\\QRCode\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\joey\\Desktop\\android studio\\QRCode\\QRCode\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.2.0\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\NEW PC\\AndroidStudioProjects\\QRCode\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\NEW PC\\AndroidStudioProjects\\QRCode\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.2.0\\res\\raw\\zxing_beep.ogg"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="mdpi"
+    format="7"
+    timestamp="21697026197318"
+    token="3786144040112119371" >
+
+    <task
+        name="javac"
+        duration="8224" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="927" />
+    <task
+        name="verifier"
+        duration="577" />
+
+    <artifact
+        location="C:\Users\NEW PC\AndroidStudioProjects\QRCode\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="21697026197318" >
+        <artifact
+            location="C:\Users\NEW PC\AndroidStudioProjects\QRCode\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
